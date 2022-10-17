@@ -126,11 +126,3 @@ sample response:
     }
 ]
 ```
-
-
-
-# Learning outcomes
-
-Learned a lot about Spring Boot, Spring Security, JPA, Lombok and Gradle
-
-####   So far the most useful and fun project I've done.
